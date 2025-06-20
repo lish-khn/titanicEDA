@@ -50,7 +50,7 @@ To run this project locally, follow these steps:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/titanic-eda.git
+   git clone https://github.com/lish-khn/titanic-eda.git
    ```
 
 2. Navigate to the project directory:
@@ -83,5 +83,3 @@ By the end of this project, you'll be able to identify patterns such as:
 ## Contributing
 
 Feel free to fork this repository, create a branch, and submit a pull request with any improvements or suggestions. Contributions are always welcome!
-
-Make sure to replace "yourusername" in the clone URL with your actual GitHub username. Would you like to make any adjustments or add further sections?
